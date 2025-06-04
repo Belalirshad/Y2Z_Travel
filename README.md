@@ -7,7 +7,7 @@
 1. Clone Repository
 
 ```sh
-git clone https://github.com/Belalirshad/AB-Movies-Backend.git
+git clone https://github.com/Belalirshad/Y2Z_Travel.git
 ```
 
 2. Install Dependencies
