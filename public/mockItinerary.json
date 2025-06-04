@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "India Gate",
+    "description": "India Gate is a war memorial located in New Delhi, along with Rajpath. It is dedicated to the 82,0000 soldiers, both Indian and British.",
+    "rating": 4.5,
+    "review": "(281,124)",
+    "image": "https://thumbs.dreamstime.com/b/x-india-gate-illuminated-majestic-nighttime-glow-experience-mesmerizing-beauty-night-as-iconic-monument-glows-under-366201102.jpg",
+    "coordinates": "28.6129° N, 77.2295° E"
+  },
+  {
+    "id": "2",
+    "title": "Red Fort",
+    "description": "The Red Fort is a historical fort in the old Delhi area, on the banks of Yamuna.",
+    "rating": 4.7,
+    "review": "(168,729)",
+    "image": "https://lh3.googleusercontent.com/YxGrvTgeNFBGwpFXO3CV7DSQGNDZDNq4hEZqjiyEQmjTMtGirlclLpV3eRnjMTOXeCh1T81Q8_P9JALTuxga74DBLvdaAp6Z9w=s1200",
+    "coordinates": "28.6562° N, 77.2410° E"
+  },
+  {
+    "id": "3",
+    "title": "Qutub Minar",
+    "description": "Qutub Minar is a minaret or a victory tower located in the Qutub complex, a UNESCO World Heritage Site in Delhi's Mehrauli area.",
+    "rating": 4.6,
+    "review": "(151,556)",
+    "image": "https://www.thedelhitours.com/blog/wp-content/uploads/2024/09/Qutub-Minar-750x564.jpg",
+    "coordinates": "28.5245,77.1855"
+  },
+  {
+    "id": "4",
+    "title": "Lotus Temple",
+    "description": "Located in the national capital of New Delhi, the Lotus Temple is an edifice dedicated to the Bahá'í Faith.",
+    "rating": 4.6,
+    "review": "(67,772)",
+    "image": "https://sceneloc8.com/wp-content/uploads/2024/03/5-34.png",
+    "coordinates": "28.5535,77.2588"
+  },
+  {
+    "id": "5",
+    "title": "Humayun's Tomb",
+    "description": "Humayun's Tomb is the final resting place of Mughal Emperor Humayun.",
+    "rating": 4.6,
+    "review": "(46,024)",
+    "image": "https://s7ap1.scene7.com/is/image/incredibleindia/humayuns-tomb-delhi-3-musthead-hero?qlt=82&ts=1727352134370",
+    "coordinates": "28.5932,77.2500"
+  }
+]
